@@ -1,7 +1,7 @@
 # HRCODE
 
 
-The file and .pt file is here: https://drive.google.com/drive/folders/1_SmDy9-5-kDIj9-htwjye8m4ie_HQZRv
+The file and .pt file are here: https://drive.google.com/drive/folders/1_SmDy9-5-kDIj9-htwjye8m4ie_HQZRv
 
 The all errors file: AllErrorFile.txt 
 
